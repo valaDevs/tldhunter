@@ -1,5 +1,5 @@
 # tldhunter
-tldhunter is python tool for brute forcing TLD and find all registered domain of a company
+tldhunter is a python tool for brute forcing TLDs and find all registered domains of a company
 
 ## how to use
 
